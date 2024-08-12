@@ -1,7 +1,9 @@
 Array Manipulation Project
+
 Bu proje, C# dilinde bir dizi (array) oluşturma, diziyi güncelleme, sıralama ve tersine çevirme işlemlerini içermektedir.
 
 Proje Açıklaması
+
 Bu kod parçası, 10 elemanlı bir dizi oluşturur, her bir elemanı çift sayılarla doldurur, ardından kullanıcıdan ek bir eleman alarak diziyi genişletir. Genişletilen dizi sıralanır ve ters çevrilir. Nihayetinde, her aşamadaki dizi elemanları ekrana yazdırılır.
 
 Kullanım
